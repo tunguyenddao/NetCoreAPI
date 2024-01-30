@@ -21,15 +21,15 @@ public class bt2 {
         double delta = hesob*hesob - 4*hesoa*hesoc;
         // float x1, x2;
         if (delta > 0 ) {
-            x1 = (double) ((-b + Math.sqrt(delta)) / (2*a));
-            x2 = (double) ((-b - Math.sqrt(delta)) / (2*a));
+            x1 = (double) ((-hesob + Math.sqrt(delta)) / (2*hesoa));
+            x2 = (double) ((-hesob - Math.sqrt(delta)) / (2*hesoa));
 
             System.out.println("phuong trinh co  2 nghiem  " +"x1 ="x1 +"x2 = "x2);
             // System.out.println("phuong trinh co  2 nghiem : x2 = " +x2);
         }else if (delta == 0) {   
-            System.out.println("phuong trinh co  nghiem  kep : x = " +(-hesob/a));
+            System.out.println("phuong trinh co  nghiem  kep : x = " +(-hesob/2*hesoa));
             
-        }else (delta < 0) {
+        }else {
             System.out.println("phuong trinh vo nghiem");
         }
 
