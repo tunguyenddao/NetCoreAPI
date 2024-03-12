@@ -22,8 +22,8 @@ public class OPPsinhvien {
         tuoi = 2024 - ns;
     }
     void in(){
-        System.out.println(" ten cua ban la " + hovaten);
-        System.out.println(" msv cua ban la " + MSV);
-        System.out.println(" tuoi cua ban la " + tuoi);
+        System.out.println(" ten cua ban la : " + hovaten);
+        System.out.println(" msv cua ban la : " + MSV);
+        System.out.println(" tuoi cua ban la : " + tuoi);
     }
 }
