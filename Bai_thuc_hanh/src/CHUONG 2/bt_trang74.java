@@ -5,13 +5,13 @@ public class bt_trang74 {
         Scanner sc = new Scanner(System.in);
         int n;
         do{
-             System.out.println("nhap so ptu cua mang");
+             System.out.println("nhap so phan tu cua mang");
              n = sc.nextInt();
         }while(n<0);
         int a[] = new int[n];
-        System.out.println("nhap cac ptu cua mang");
+        System.out.println("nhap cac phan tu cua mang");
         for(int i =0; i < n ; i++){
-            System.out.println("nhap ptu thu " +i +":");
+            System.out.println("nhap phan tu thu " +i +":");
             a[i]= sc.nextInt();
         }
         int tong = 0;
