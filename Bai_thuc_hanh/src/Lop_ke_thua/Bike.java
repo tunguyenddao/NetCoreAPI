@@ -1,4 +1,4 @@
-package Lop_Ke_Thua;
+package Lop_ke_thua;
 
 abstract class Bike {
     abstract void age();
@@ -6,7 +6,7 @@ abstract class Bike {
 
  class Honda extends Bike {
     void age(){
-        System.out.println("moi duoc su dung");
+        System.out.println("xe moi duoc su dung");
     }
     public static void main(String[] args) {
         Bike xe = new Honda();
