@@ -9,7 +9,7 @@ public class bt_trang81 {
         System.out.println("nhap so cot cua mt :");
         n = sc.nextInt();
         int a[][] = new int[m][n];
-        System.out.println("nhap cac ptu cua mt :");
+        System.out.println("nhap cac phan tu cua mt :");
         for(int i=0; i < m; i++){
             for(int j=0; j < n;j++ ){
                 System.out.println("a[" +i+ "][" +j +"]");
