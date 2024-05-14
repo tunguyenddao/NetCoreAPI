@@ -9,7 +9,7 @@ public class hinhvuong extends HCN{
     }
     public void nhapCanh(){
         Scanner sc=new Scanner(System.in);
-        System.out.print("Canh=");
+        System.out.print("Canh =");
         dai=rong=sc.nextInt();
     }
     

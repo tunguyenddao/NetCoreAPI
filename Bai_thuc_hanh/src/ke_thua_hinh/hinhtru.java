@@ -16,7 +16,7 @@ public class hinhtru extends hinhtron {
        
         Scanner sc = new Scanner(System.in);
         super.nhap();
-        System.out.print("Chieu cao =");
+        System.out.print("Chieu cao hinh tru =");
         chieuCao = sc.nextFloat();
 
     }

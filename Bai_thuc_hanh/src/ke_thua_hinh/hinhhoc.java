@@ -21,7 +21,7 @@ public class hinhhoc {
         CV=sc.nextFloat();
         System.out.print("Dien Tich :");
         S=sc.nextFloat();
-        System.out.print("The tich :");
+        System.out.print("The Tich :");
         V=sc.nextFloat();
     }
     public void xuatTen(){

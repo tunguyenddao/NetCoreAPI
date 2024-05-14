@@ -17,7 +17,7 @@ public class hinhtron extends hinhhoc {
     public void nhap(){
        
         Scanner sc =new Scanner(System.in);
-        System.out.print("Ban kinh cua hinh tron =");
+        System.out.print("Ban kinh cua hinh tron la :");
         banKinh=sc.nextFloat();
         
     }

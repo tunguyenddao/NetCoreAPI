@@ -17,7 +17,7 @@ public class HCN extends hinhhoc {
     }
     public void nhapChieuRong(){
         Scanner sc= new Scanner(System.in);
-        System.out.print("Chieu Rong =");
+        System.out.print("Chieu rong =");
         rong=sc.nextFloat();
        
     }
