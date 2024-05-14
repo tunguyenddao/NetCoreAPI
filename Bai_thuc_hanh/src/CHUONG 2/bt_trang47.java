@@ -5,7 +5,7 @@ public class bt_trang47 {
     Scanner sc = new Scanner(System.in);
     int n, tong = 0;
     do{
-        System.out.println("nhap so :");
+        System.out.println("moi nhap so :");
         n= sc.nextInt();
         tong = tong + n;
     }while(tong < 100);
