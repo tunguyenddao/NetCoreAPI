@@ -12,7 +12,7 @@ public class hinhtron {
         return R=8.5f;
     }
     public void inbankinh(){
-        System.out.println("ban kinh hinh tron la : " + R);
+        System.out.println("ban kinh cua hinh tron la : " + R);
     }
     public void S(){
         S = pi*R*R;

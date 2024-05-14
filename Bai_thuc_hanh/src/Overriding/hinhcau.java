@@ -9,7 +9,7 @@ public class hinhcau extends hinhtron {
         return R = 9.2f;
     }
     public void inbankinh(){
-        System.out.println("ban kinh hinh cau la : " + R);
+        System.out.println("ban kinh cua hinh cau la : " + R);
     }
     public void S(){
         S = 4*pi*R*R;

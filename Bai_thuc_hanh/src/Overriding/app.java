@@ -2,13 +2,13 @@ package Overriding;
 
 public class app {
     public static void main(String[] args) {
-        hinhtron HT = new  hinhtron();
+        hinhtron HTron = new  hinhtron();
         hinhcau HC = new hinhcau();
-        HT.thongtin();
+        HTron.thongtin();
         HC.thongtin();
-        HT.inbankinh();
+        HTron.inbankinh();
         HC.inbankinh();
-        HT.S();
+        HTron.S();
         HC.S();
     }
 }
