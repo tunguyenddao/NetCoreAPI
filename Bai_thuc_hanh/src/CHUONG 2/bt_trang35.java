@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class bttrang35 {
+public class bt_trang35 {
     public static void main(String[] args) {
         Scanner sc= new Scanner(System.in);
         int stnhat, sthai;
