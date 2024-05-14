@@ -3,7 +3,7 @@ package ArrayList;
 import java.util.Scanner;
 import java.util.ArrayList;
 
-public class demo {
+public class bt_trang21 {
     public static void main(String[] args) {
     ArrayList<String> arrayListString = new ArrayList<>();
     ArrayList<Character> backupCharacters = new ArrayList<>();

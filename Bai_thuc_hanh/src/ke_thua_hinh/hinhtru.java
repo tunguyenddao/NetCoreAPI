@@ -1,4 +1,4 @@
-package kethuahinh;
+package ke_thua_hinh;
 
 import java.util.Scanner;
 

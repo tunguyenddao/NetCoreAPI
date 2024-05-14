@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class bttrang74 {
+public class bt_trang74 {
     public static void main(String[] args) throws Exception {
         Scanner sc = new Scanner(System.in);
         int n;
