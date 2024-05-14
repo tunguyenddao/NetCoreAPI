@@ -22,7 +22,7 @@ public class SV {
       
     }
     public void in(){
-        System.out.println("ten ban la :" + hovaten + "  sinh nam : " +NS + "  MSV : " + MSV);
+        System.out.println("ten cua ban la :" + hovaten + "  sinh nam : " +NS + "  MSV : " + MSV);
     }
    
 }
