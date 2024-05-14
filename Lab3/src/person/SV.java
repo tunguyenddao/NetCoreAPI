@@ -18,6 +18,7 @@ public class SV {
         MSV = sc.nextLine();
         System.out.println("nhap nam sinh : ");
         NS = sc.nextInt();
+        
       
     }
     public void in(){

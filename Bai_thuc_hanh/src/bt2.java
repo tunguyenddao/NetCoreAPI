@@ -24,7 +24,7 @@ public class bt2 {
             x1 = (double) ((-hesob + Math.sqrt(delta)) / (2*hesoa));
             x2 = (double) ((-hesob - Math.sqrt(delta)) / (2*hesoa));
 
-            System.out.println("phuong trinh co  2 nghiem  " +"x1 ="x1 +"x2 = "x2);
+            System.out.println("phuong trinh co  2 nghiem  " +"x1" + "=" +x1 +"x2" + "=" +x2);
             // System.out.println("phuong trinh co  2 nghiem : x2 = " +x2);
         }else if (delta == 0) {   
             System.out.println("phuong trinh co  nghiem  kep : x = " +(-hesob/2*hesoa));
