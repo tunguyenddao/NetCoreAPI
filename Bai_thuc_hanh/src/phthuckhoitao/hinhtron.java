@@ -23,7 +23,7 @@ public class hinhtron {
         S = pi * r * r;
     }
     public void in(){
-        System.out.println("Chu vi hinh tron la : " +CV);
-        System.out.println("Dien tich hinh tron la : " +S);
+        System.out.println("Chu Vi hinh tron la : " +CV);
+        System.out.println("Dien Tich hinh tron la : " +S);
     }
 }
