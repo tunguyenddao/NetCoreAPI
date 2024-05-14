@@ -15,7 +15,7 @@ public class FullTime extends nhanvien {
     }
     public String loainv(){
         
-        return "nhanvienFullTime";
+        return "NhanVienFullTime";
     }
     public void tinhluong(){
         if (loaichucvu == 1) {

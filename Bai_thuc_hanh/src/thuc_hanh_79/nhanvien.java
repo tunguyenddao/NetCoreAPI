@@ -17,6 +17,6 @@ public class nhanvien {
      public void inthongtin(){
         System.out.println("Ten nv la:" +ten);
         System.out.println("Loai nv :" + loainv);
-        System.out.println("luong : "  +luong);
+        System.out.println("Luong : "  +luong);
      }
 }
