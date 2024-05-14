@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class baitapt30 {
+public class bt_trang30 {
     public static void main(String[] args) {
         int n, tong = 0;
         Scanner sc = new Scanner(System.in);
