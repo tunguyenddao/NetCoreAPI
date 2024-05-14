@@ -1,9 +1,9 @@
-package SETTER_GETTER;
+package SETTER__GETTER;
 
 public class app {
     public static void main(String[] args) {
          hinhtron ht = new hinhtron();
-        // hinhtron.setbankinh(10);
+        
 
     }
 }

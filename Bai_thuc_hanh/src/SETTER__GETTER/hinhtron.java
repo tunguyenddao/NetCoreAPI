@@ -1,7 +1,7 @@
-package SETTER_GETTER;
+package SETTER__GETTER;
 
 public class hinhtron {
-     final float pi = 3.141f;
+     final float pi = 3.1412f;
     private double R;
     public   void setbankinh(double R){
         this.R= R;
