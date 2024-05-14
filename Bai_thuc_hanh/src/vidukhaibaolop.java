@@ -11,7 +11,7 @@ public class vidukhaibaolop {
         S=R*R*pi;
     }
     void nhapBK(){
-        System.out.println("moi anh dep trai nhap ban kinh : ");
+        System.out.println("moi ban nhap ban kinh : ");
         Scanner sc = new Scanner(System.in);
         R = sc.nextFloat();
     }

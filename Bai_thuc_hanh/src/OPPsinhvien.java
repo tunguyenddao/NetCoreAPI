@@ -5,7 +5,7 @@ public class OPPsinhvien {
     int tuoi=0, ns;
 
     void nhap() {
-        System.out.println("moi ban nhap ho va ten : ");
+        System.out.println("moi  nhap ho va ten : ");
         Scanner sc = new Scanner(System.in);
         hovaten = sc.nextLine();
 
