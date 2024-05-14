@@ -6,7 +6,7 @@ public class bt_trang90 {
         Scanner sc = new Scanner(System.in);
         String s;
         char kiTu;
-        System.out.println("nhap chuoi : ");
+        System.out.println(" moi nhap chuoi : ");
         s = sc.nextLine();
         System.out.println(" cac ki tu trong chuoi la :"  );
         for(int i=0; i < s.length() ; i++){
