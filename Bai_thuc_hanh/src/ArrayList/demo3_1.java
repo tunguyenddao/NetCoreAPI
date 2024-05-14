@@ -2,10 +2,6 @@ package ArrayList;
 
 import java.util.Scanner;
 import java.util.ArrayList;
-<<<<<<< HEAD
-
-=======
->>>>>>> 75be5418d8c2d625251a3de376f97003ce8c5d6d
 public class demo3_1 {
     public static void main(String[] args) {
         ArrayList<Integer> ht = new ArrayList<>();
@@ -24,7 +20,7 @@ public class demo3_1 {
                 max = ht.get(i);
             }
         }
-        System.out.print("phan tu lon nhat : ");
+        System.out.print("phan tu lon nhat la : ");
         System.out.println(max);
     }
 }

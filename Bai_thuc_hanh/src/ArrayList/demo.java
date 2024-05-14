@@ -17,7 +17,7 @@ public class demo {
     arrayListString.add("thu");
     backupCharacters.add(' ');
     arrayListString.add("tu");
-    System.out.print("cac phan tu trong string la : ");
+    System.out.print("cac phan tu trong mang la : ");
     for(int i = 0; i < arrayListString.size(); i++){
         System.out.print(arrayListString.get(i) );
         System.out.print(backupCharacters.get(0));
