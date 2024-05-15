@@ -14,7 +14,7 @@ public class bttrang38 {
             list.add("chu nhat");
             System.out.println("vi du phuong thuc add Linkedlist");
             System.out.println(" ------------------------------- ");
-            System.out.print("hom nay la : ");
+            System.out.print("hom nay là : ");
             System.out.println(list.get(1));
 
         }
