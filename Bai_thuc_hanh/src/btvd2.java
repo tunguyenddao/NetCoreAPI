@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class bt_2 {
+public class btvd2 {
     public static void main(String[] args) throws Exception {
         double hesoa, hesob, hesoc, x1, x2 ;
         Scanner sc = new Scanner(System.in);
